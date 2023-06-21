@@ -17,10 +17,10 @@ and the Flutter guide for
 ParticleFL offers a simple method for the Flutter Flame library to display particle systems. 
 This makes it very simple to add special effects like fire, smoke, snow, explosions, and so on.
 
-## Getting started
+<!-- ## Getting started
 
 TODO: List prerequisites and provide or point to information on how to
-start using the package.
+start using the package. -->
 
 ## Usage
 

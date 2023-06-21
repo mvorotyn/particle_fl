@@ -39,14 +39,12 @@ class ParticlesGame extends FlameGame with HasGameRef<ParticlesGame> {
     super.onLoad();
     emitter = ParticleFlEmitter(generator: FireParticlesGenerator());
     add(emitter);
-    // emitter.position = game.size / 2;
   }
 
   @override
   Color backgroundColor() {
-    // Simulate some asynchronous operation
     return Color.fromARGB(
-        247, 111, 111, 111); //Color.fromARGB(255, 57, 54, 54);
+        247, 111, 111, 111); 
   }
 
   @override
